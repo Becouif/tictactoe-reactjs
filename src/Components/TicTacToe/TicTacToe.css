@@ -14,6 +14,12 @@
   align-items: center;
 }
 
+.title img {
+  padding: 10px 10px;
+  margin-top: 1.1rem;
+  width: 50px;
+  /* height: 50px; */
+}
 .title span {
 color: #6ef169;
 padding-left: 15px;
